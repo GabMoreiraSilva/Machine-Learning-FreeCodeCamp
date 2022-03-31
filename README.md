@@ -1,9 +1,6 @@
-# FreeCodeCamp
-Todas minhas resposta dos desafios da FreeCodeCamp
-
-O projeto para identificar se é spam ou ham existe a necessidade de quando for definir a função para fazer as previsões, ela tem que estar dentro de uma list
-
-Se for fazer a de identificar se é um cachorro ou um gato, não esqueça de ler meu comentário, se não vai obter um erro e perder muito tempo procurando uma solução 
+# Machine Learning
+<p aling="center"><img src="https://www.tensorflow.org/site-assets/images/marketing/icon/icon-all-tensorflow-white.png?hl=pt-br"></p>
+Machine learning has many practical applications that you can use, In the Machine Learning with Python, you'll use the TensorFlow framework to build several neural networks and explore more advanced techniques like natural language processing and reinforcement learning.
 
 ***
 
